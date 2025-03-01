@@ -1,0 +1,5 @@
+amqp:
+  user_name:
+  user_pass:
+tg_config:
+  token:
